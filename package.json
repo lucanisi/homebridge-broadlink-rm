@@ -22,11 +22,11 @@
     "homebridge": ">=1.4.1"
   },
   "author": {
-    "name": "rocket-monkey"
+    "name": "lucanisi"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rocket-monkey/homebridge-broadlink-rm.git"
+    "url": "https://github.com/lucanisi/homebridge-broadlink-rm.git"
   },
   "dependencies": {
     "await-semaphore": "^0.1.3",
